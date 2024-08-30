@@ -1,0 +1,42 @@
+{
+  "Product": [
+    {
+      "product_name": "American Apple Amazon, Meesho, Jiomart, Indiamart Logo Printed Polo/Collar Half Sleeve Staff T-Shirt for Men and Women",
+      "product_price": "449",
+      "product_image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQHBe3gvv9i-t-WiN1uRbWYZqVCzj_-U0YQVg1wEUHP1kcK78krKAjZePv1_al0nEd1U42SlI7Yx1gobuvETqzFOsVXgYu3yd55n4YwUv8KUuhbTZ7_pjnNRqg",
+      "product_brand": "American Polo",
+      "product_review": "Average",
+      "product_rating": "4",
+      "id": "6c36"
+    },
+    {
+      "product_name": "TRENDY MEN'S DIGITAL PRINTED SHIRT89",
+      "product_price": "500-1000",
+      "product_image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRX5d_CMxCp_WFulEA-mh-UEzZ78xjS6AFke2Tm-IfHVizxHBG8MVm6ch9Rb8q9tGL5UQPcJiy3515Td0mnz4qW8-_MIRbJSh7PWMlVaFsTMw",
+      "product_brand": "Fancy",
+      "product_review": "Good",
+      "product_rating": "4",
+      "id": "44e1"
+    },
+    {
+      "id": "8bf1",
+      "product_name": "Periphery Half Sleeve T-Shirt",
+      "product_price": "599",
+      "product_image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRZsvkQa3qGG4cs6QdxejVN3pvtL1v0Fv1nAu4rNzn7IR2hsMl9dtT5Z2qEMHnc4uS08AQlJIGlFp9EgzRyIjlOy5b5pjZM3iLTec72shwW-867gSZqnOQBTpBn",
+      "product_brand": "Swag Shirts",
+      "product_review": "Excellent",
+      "product_rating": "5"
+    }
+  ],
+  "Registration": [
+    {
+      "id": "aea6",
+      "name": "Gagan Jha",
+      "email": "jhag27734@gmail.com",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSAIyDtkwPUSsEQaiI-bnrNp8r8QeV0wHEkw&s",
+      "mobile": "6387234659",
+      "password": "1234",
+      "cpassword": "1234"
+    }
+  ]
+}
